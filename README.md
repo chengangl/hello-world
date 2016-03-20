@@ -1,4 +1,4 @@
 # hello-world
 第一个git仓库
-readme-edits branch change：
-修改reamde的分支...
+修改readme-edits
+创建RepoInfo-adds
